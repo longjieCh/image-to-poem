@@ -1,5 +1,6 @@
 # image-to-poem
-Simple python script to detect the entity in an image and generate a poem about it  
+Simple python script to detect the entity in an image and generate a poem about it.
+Check out the [demo](https://github.com/roemerkleerebezem/image-to-poem/blob/master/Image%20to%20poem.ipynb)
   
 ## Description
 Takes an image as input, identifies it using the Google Vision API, and creates a poem about it  
